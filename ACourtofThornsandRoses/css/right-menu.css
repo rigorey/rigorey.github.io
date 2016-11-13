@@ -1,5 +1,5 @@
 h3, ul, ul.li {
-  font-family:Sans-serif;
+  font-family:Times fantasy;;
 }
 h3 {
       padding: 15px;
@@ -7,6 +7,6 @@ h3 {
 /* Change the color of the Link  */
 /* text in the right menu below   */
   ul a {
-    color: darkgreen;
+    color: #ffffff;
     text-decoration: underline;
   }
