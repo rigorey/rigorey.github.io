@@ -90,25 +90,25 @@
   #header, #footer {
     font-size: large;
     padding: 0.3em;
-    background: #BCCE98;
+    background: #CD5C5C;
   }
 
   /* Change the background color */
   /* of the left column below    */
   #left {
-    background: #F7FDEB;
+    background: #8B0000;
   }
 
   /* Change the background color  */
   /* of the right column below    */
   #right {
-    background: #DAE9BC;
+    background: #8B0000;
   }
 
   /* Change the background color  */
   /* of the center column below    */
   #center {
-    background: #fff;
+    background: #000000;
   }
 
   #container .column {
