@@ -22,7 +22,7 @@
   }
 
   #left {
-    width: 2000px;
+    width: 200px;
     padding: 0px;
     right: 240px;
     margin-left: -100%;
@@ -90,7 +90,7 @@
   /* of the header and footer below */
   #header, #footer {
     font-size: large;
-    padding: 0.2em;
+    padding: 3em;
     background: #191970;
   }
 
