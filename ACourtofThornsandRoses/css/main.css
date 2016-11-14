@@ -90,7 +90,7 @@
   /* of the header and footer below */
   #header, #footer {
     font-size: large;
-    padding: 1em;
+    padding: .5em;
     background: #191970;
   }
 
