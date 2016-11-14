@@ -30,8 +30,8 @@
 
   #right {
     width: 200px;
-    padding: 1px;
-    margin-right: -100%;
+    padding: 0px;
+    margin-right: -50%;
   }
 
   #footer {
