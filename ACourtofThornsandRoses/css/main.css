@@ -73,13 +73,13 @@
     padding: 0;
     font-family:times fantasy;;
     line-height: 1.5em;
+    color: #FFFFFF
   }
 
   p {
     color: #FFFFFF;
   }
-h1 {color: #FFFFFF
-  }
+
   nav ul {
     list-style-type: none;
     margin: 0;
