@@ -31,7 +31,8 @@
   #right {
     width: 200px;
     padding: -10px;
-    margin-right: -25%;
+    left: 240px;
+    margin-right: -100%;
   }
 
   #footer {
