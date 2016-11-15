@@ -25,13 +25,13 @@
     width: 200px;
     padding: 0px;
     right: 240px;
-    margin-left: 50px;
+    margin-left: -100%;
   }
 
   #right {
     width: 200px;
     padding: -10px;
-    margin-right: 50px;
+    margin-right: -100%;
   }
 
   #footer {
