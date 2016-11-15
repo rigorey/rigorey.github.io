@@ -1,5 +1,6 @@
 h3, ul, ul.li {
-  font-family:Times cursive;;
+  font-family:Times cursive;
+  margin-right: 50px;
 }
 h3 {
       padding: 30px;
